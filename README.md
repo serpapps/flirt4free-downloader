@@ -1,4 +1,4 @@
-# Flirt4Free Downloader (Browser Extension)
+# Flirt4Free Video Downloader (Browser Extension)
 
 > Record Flirt4Free live streams and download saved videos as MP4 files from your browser.
 
@@ -12,7 +12,7 @@ Flirt4Free Downloader is a browser extension for users who want a direct way to 
 
 ## Links
 
-- :rocket: Get it here: [Flirt4Free Downloader](https://serp.ly/flirt4free-video-downloader)
+- :rocket: Get it here: [Flirt4Free Downloader](https://serp.ly/flirt4free-video-downloader?via=github)
 - :new: Latest release: [GitHub Releases](https://github.com/serpapps/flirt4free-downloader/releases/latest)
 - :question: Help center: [SERP Help](https://help.serp.co/en/)
 - :beetle: Report bugs: [GitHub Issues](https://github.com/serpapps/flirt4free-downloader/issues)
@@ -128,7 +128,7 @@ The extension only works on media you can already open and play in your active b
 - No credit card required for the trial
 - Unlimited downloads are available with a paid license
 
-Start here: [https://serp.ly/flirt4free-video-downloader](https://serp.ly/flirt4free-video-downloader)
+Start here: [https://serp.ly/flirt4free-video-downloader?via=github](https://serp.ly/flirt4free-video-downloader?via=github)
 
 ## Installation Instructions
 
